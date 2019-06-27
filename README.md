@@ -1,7 +1,6 @@
-# Homework 2 N-grams.
+# Viterbi Algorithm Implementation
 ### Author  **Sree Teja Simha Gemaraju**
 ### Email    **Sreetejasimha.gemaraju@utdallas.edu**
-### Netid     **sxg177330**
 
 #### About
 
