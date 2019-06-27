@@ -3,6 +3,10 @@
 ### Email    **Sreetejasimha.gemaraju@utdallas.edu**
 ### Netid     **sxg177330**
 
+#### About
+
+This is an implementation of Viterbi algorithm to compute probability of hidden events given visible outcomes.
+
 ##### Files in this project
 -------------------------------------------------------------------------------------------------------------------------
 | File | Purpose |
